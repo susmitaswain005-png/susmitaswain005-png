@@ -30,27 +30,6 @@
 
 ## 🛠️ Technical Skills
 
-
-
-## 🚀 My Projects
-
-### 🌐 1. Personal Portfolio Website
-
-A personal portfolio website designed to showcase my profile, skills, education, and projects with a clean and attractive user interface.
-
-**Technologies:** HTML, CSS
-
----
-
-### 📊 2. Interactive Dashboard
-
-An interactive dashboard designed to display information in a structured and user-friendly interface with a clean layout and JavaScript functionality.
-
-**Technologies:** HTML, CSS, JavaScript
-
----
-
-
 ### 💻 Programming Languages
 
 <p>
@@ -79,15 +58,21 @@ An interactive dashboard designed to display information in a structured and use
 
 ---
 
-## 🚀 My Practice
+## 🚀 My Projects
 
-### 🐍 Python Programming Practice
+### 🌐 1. Personal Portfolio Website
 
-A collection of Python programming concepts, coding exercises, and problem-solving practice.
+A personal portfolio website designed to showcase my profile, skills, education, and projects with a clean and attractive user interface.
 
-**Technologies:** Python
+**Technologies:** HTML, CSS
 
-🔗 [View Python Practice Repository](https://github.com/susmitaswain005-png/python-programming-practice)
+---
+
+### 📊 2. Interactive Dashboard
+
+An interactive dashboard designed to display information in a structured and user-friendly interface with a clean layout and JavaScript functionality.
+
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
